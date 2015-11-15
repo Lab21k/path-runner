@@ -1,0 +1,29 @@
+{
+  "name": "path-runner",
+  "version": "0.0.1",
+  "description": "Makes a point go through a LineString in the correct timing given an inputted average speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lab21k/path-runner.git"
+  },
+  "keywords": [
+    "gis",
+    "speed",
+    "average",
+    "linestring",
+    "path"
+  ],
+  "author": "André Abadesso <andre@lab21k.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lab21k/path-runner/issues"
+  },
+  "homepage": "https://github.com/Lab21k/path-runner#readme",
+  "dependencies": {
+    "haversine": "^1.0.0"
+  }
+}
