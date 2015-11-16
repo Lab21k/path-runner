@@ -2,7 +2,7 @@
   "name": "path-runner",
   "version": "0.0.1",
   "description": "Makes a point go through a LineString in the correct timing given an inputted average speed.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha"
   },
