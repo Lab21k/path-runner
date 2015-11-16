@@ -29,3 +29,24 @@ pathRunner.on('position', (pos) => {
     // Do something
 });
 ```
+
+# Contributing
+
+* Fork the repo
+
+* Install dependencies **(requires node > 4.0)**
+
+```bash
+npm install
+```
+* Run the test suite
+
+```bash
+mocha
+```
+
+* Make a pull request
+
+* ???
+
+* Profit
