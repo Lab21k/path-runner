@@ -24,6 +24,11 @@
   },
   "homepage": "https://github.com/Lab21k/path-runner#readme",
   "dependencies": {
-    "haversine": "^1.0.0"
+    "haversine": "^1.0.0",
+    "mocha": "^2.3.4",
+    "tiny-emitter": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1"
   }
 }
