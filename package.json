@@ -1,6 +1,6 @@
 {
   "name": "path-runner",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Makes a point go through a LineString in the correct timing given an inputted average speed.",
   "main": "src/index.js",
   "scripts": {
