@@ -45,6 +45,7 @@ class PathRunner extends TinyEmitter {
     movePoint(time) {
         this.movePointTimer = setTimeout(() => {
             if (this.currentPath.length <= 1) {
+                this.emit('end');
                 this.currentPath = this.path.slice();
             }
 
